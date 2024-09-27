@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Hello from './Hello.js';
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <Hello></Hello>
         <p>
           오픈소스 스튜디오 React기초
         </p>
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React (리액트 배우기)
+          Learn React
         </a>
       </header>
     </div>
