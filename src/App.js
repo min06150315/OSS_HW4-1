@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Hello></Hello>
         <p>
-          오픈소스 스튜디오 React기초
+          Assignment#4-1: Ajax 구현 및 React기초
         </p>
         <a
           className="App-link"
@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          오픈소스 스튜디오
         </a>
       </header>
     </div>
