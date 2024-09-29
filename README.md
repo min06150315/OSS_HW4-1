@@ -1,4 +1,20 @@
-Link -> https://min06150315-oss-assignment4-1.netlify.app/
+<h1>22300265 민경빈</h1>
+<h3>Link -> https://min06150315-oss-assignment4-1.netlify.app/</h3>
+<hr>
+<h3>
+    [Assignment#4-1 React기초] <br>
+    Node.js 설치 <br>
+    CRA(Create-React-App) 설치
+    create-react-app을 이용한 프로젝트 실행 <br><br>
+    기본 웹페이지에서 css나 js를추가하여 화면을 변경하여 테스트 <br>
+    <ul>
+        <li>App.js에 있는 p 태그 수정</li>
+        <li>App.js에 있는 a 태그 수정</li>
+        <li>Hello.js, Hello.css 생성 및 스타일 적용 후 App.js에서 Hello.js 불러와 Hello World 출력</li>
+    </ul>
+    서버 실행 커맨드: npm start <br><br>
+    <img src="./public/preview.png">
+</h3><br>
 
 # Getting Started with Create React App
 
